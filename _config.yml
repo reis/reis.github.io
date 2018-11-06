@@ -1,5 +1,5 @@
 title: Andre Leite REIS
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-relative-links
 relative_links:

@@ -1,7 +1,3 @@
 # Andre Leite Reis
 
-## My Notes
-
-- Test 1
-- Test 2
-
+Have a look at my CV at [](https://github.com/reis/markdown-cv/blob/master/AndreLeiteReis_CV.pdf)

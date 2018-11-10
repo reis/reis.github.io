@@ -1,6 +1,5 @@
-title: Andre Leite REIS
-theme: jekyll-theme-minimal
-plugins:
+title: Andre Leite Reis
+remote_theme: chibicode/duo
   - jekyll-relative-links
 relative_links:
   enabled: true

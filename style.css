@@ -1,8 +1,5 @@
 body {
   background-color: black;
-  background-image: radial-gradient(
-    rgba(0, 99, 0, 0.75), black 120%
-  );
   height: 100vh;
   margin: 0;
   overflow: hidden;

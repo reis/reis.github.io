@@ -8,7 +8,7 @@ body {
   overflow: hidden;
   padding: 2rem;
   color: white;
-  font: 1.3rem Inconsolata, monospace;
+  font: 1rem Inconsolata, monospace;
   text-shadow: 0 0 5px #C8C8C8;
 }
 ::selection {
@@ -23,8 +23,8 @@ a {
   text-shadow: 0 0 5px #C8C8C8;
 }
 h1 {
-  font-size: 1.5rem
+  font-size: 1.2rem
 }
 h2 {
-  font-size: 1.4rem
+  font-size: 1.1rem
 }

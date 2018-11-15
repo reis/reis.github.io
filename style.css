@@ -5,8 +5,8 @@ body {
   overflow: hidden;
   padding: 2rem;
   color: white;
-  font: 1rem Inconsolata, monospace;
-  text-shadow: 0 0 5px #C8C8C8;
+  font: 2rem Inconsolata, monospace;
+  text-shadow: 0 0 3px #C8C8C8;
 }
 ::selection {
   background: #0080FF;
@@ -16,8 +16,12 @@ pre {
   margin: 0;
 }
 a {
-  color: white;
-  text-shadow: 0 0 5px #C8C8C8;
+  color: #0080FF;
+  text-shadow: 0 0 3px #C8C8C8;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
 }
 h1 {
   font-size: 1.2rem

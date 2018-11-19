@@ -6,7 +6,6 @@ body {
   padding: 2rem;
   color: white;
   font: 2rem Inconsolata, monospace;
-  text-shadow: 0 0 3px #C8C8C8;
 }
 ::selection {
   background: #0080FF;
@@ -16,9 +15,11 @@ pre {
   margin: 0;
 }
 a {
-  color: #0080FF;
-  text-shadow: 0 0 3px #C8C8C8;
+  color: lightgreen;
   text-decoration: none;
+}
+label {
+  color: brown;
 }
 a:hover{
   text-decoration: underline;

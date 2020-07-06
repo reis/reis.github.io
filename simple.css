@@ -1,0 +1,9 @@
+html *
+{
+   font-family: monospace !important;
+}
+
+ul>ul
+{
+  list-style-type: none;
+}
